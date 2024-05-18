@@ -4,7 +4,7 @@
 
 *Benchmarking framework for machine learning with fNIRS*
 
-> ⚠️ Please note this is only a placeholder, the official *BenchNIRS* repository is hosted [**here**](https://gitlab.com/HanBnrd/benchnirs) ⚠️
+> ⚠️ This is only a placeholder, the official *BenchNIRS* repository is hosted [**here**](https://gitlab.com/HanBnrd/benchnirs) ⚠️
 
 **Quick links**  
 &rarr; [*Journal article*](https://www.frontiersin.org/articles/10.3389/fnrgo.2023.994969)  
