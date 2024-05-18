@@ -152,9 +152,9 @@ If you are using *BenchNIRS*, please cite [this article](https://doi.org/10.3389
 }
 ```
 
-> If you are using the datasets of the framework, please also cite those related works.
+> If you are using the datasets of the framework, please also cite those related works:
 > 
-> *Herff et al. 2014*:
+> [*Herff et al. 2014*](https://doi.org/10.3389/fnhum.2013.00935)
 > ```
 > @article{herff2014mental,
 > 	title={Mental workload during n-back task—quantified in the prefrontal cortex using fNIRS},
@@ -167,7 +167,7 @@ If you are using *BenchNIRS*, please cite [this article](https://doi.org/10.3389
 > }
 > ```
 > 
-> *Shin et al. 2018*:
+> [*Shin et al. 2018*](https://doi.org/10.1038/sdata.2018.3)
 > ```
 > @article{shin2018simultaneous,
 > 	title={Simultaneous acquisition of EEG and NIRS during cognitive tasks for an open access dataset},
@@ -180,7 +180,7 @@ If you are using *BenchNIRS*, please cite [this article](https://doi.org/10.3389
 > }
 > ```
 > 
-> *Shin et al. 2016*:
+> [*Shin et al. 2016*](https://doi.org/10.1109/TNSRE.2016.2628057)
 > ```
 > @article{shin2016open,
 > 	title={Open access dataset for EEG+NIRS single-trial classification},
@@ -194,7 +194,7 @@ If you are using *BenchNIRS*, please cite [this article](https://doi.org/10.3389
 > }
 > ```
 > 
-> *Bak et al. 2019*:
+> [*Bak et al. 2019*](https://doi.org/10.3390/electronics8121486)
 > ```
 > @article{bak2019open,
 > 	title={Open-Access fNIRS Dataset for Classification of Unilateral Finger-and Foot-Tapping},
@@ -207,3 +207,4 @@ If you are using *BenchNIRS*, please cite [this article](https://doi.org/10.3389
 > 	publisher={Multidisciplinary Digital Publishing Institute}
 > }
 > ```
+
