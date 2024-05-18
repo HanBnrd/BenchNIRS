@@ -207,4 +207,3 @@ If you are using *BenchNIRS*, please cite [this article](https://doi.org/10.3389
 > 	publisher={Multidisciplinary Digital Publishing Institute}
 > }
 > ```
-
