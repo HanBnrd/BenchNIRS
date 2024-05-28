@@ -11,6 +11,7 @@
 &rarr; [*BenchNIRS source code*](https://gitlab.com/HanBnrd/benchnirs)  
 &rarr; [*Install BenchNIRS*](https://hanbnrd.gitlab.io/benchnirs/install.html)  
 &rarr; [*Documentation*](https://hanbnrd.gitlab.io/benchnirs)  
+&rarr; [*Examples*](https://hanbnrd.gitlab.io/benchnirs/examples.html)  
 &rarr; [*Issue tracker*](https://gitlab.com/HanBnrd/benchnirs/-/issues)  
 
 
@@ -43,7 +44,7 @@ A checklist of recommendations towards good practice for machine learning with f
 
 
 ## Setting up *BenchNIRS*
-1. Download and install Python 3.8 or greater, for example with [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/index.html).
+1. Download and install Python 3.9 or greater, for example with [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/index.html).
 
 2. To install the package with *pip* (cf. [PyPI](https://pypi.org/project/benchnirs/)), open a terminal (eg. Anaconda Prompt) and type:
 ```bash
@@ -78,9 +79,9 @@ A set of example scripts showing how to use the framework can be found [here](ht
 ```python
 import benchnirs as bn
 
-epochs = bn.load_dataset('bak_2019_me', dataset_path)
+epochs = bn.load_dataset('bak_2019_me', path)
 data = bn.process_epochs(epochs['right', 'left', 'foot'])
-results = bn.deep_learn(*data, 'lstm')
+results = bn.deep_learn(*data, my_model)
 
 print(results)
 ```
