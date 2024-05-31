@@ -101,7 +101,7 @@ Please refer to [this tutorial](https://docs.gitlab.com/ee/user/project/reposito
 
 
 ## Acknowledgements
-If you are using *BenchNIRS*, please cite [this article](https://doi.org/10.3389/fnrgo.2023.994969>):
+If you are using *BenchNIRS*, please cite [this article](https://doi.org/10.3389/fnrgo.2023.994969):
 ```
 @article{benerradi2023benchmarking,
   title={Benchmarking framework for machine learning classification from fNIRS data},
