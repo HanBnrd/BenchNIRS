@@ -28,7 +28,7 @@
 **Features**
 - loading of open access datasets
 - signal processing and feature extraction on fNIRS data
-- training, optimisation and evaluation of machine learning models (including deep learning)
+- training, fine-tuning and evaluation of machine learning models (including deep learning)
 - production of training graphs, metrics and other useful figures for evaluation
 - benchmarking and comparison of machine learning models
 - supervised, self-supervised and transfer learning
@@ -40,7 +40,7 @@ The documentation of the framework with examples can be found [here](https://han
 
 
 ## Recommendation checklist
-A checklist of recommendations towards good practice for machine learning with fNIRS (for brain-computer interface applications) can be found [here](./CHECKLIST.md). We welcome contributions from the community in order to improve it, please see below for more information on how to contribute.
+A checklist of recommendations towards best practices for machine learning with fNIRS can be found [here](./CHECKLIST.md). We welcome contributions from the community in order to improve it, please see below for more information on how to contribute.
 
 
 ## Setting up *BenchNIRS*
