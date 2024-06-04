@@ -58,7 +58,7 @@ pip install benchnirs
 ## Downloading the datasets
 - *Herff et al. 2014* (n-back task): you can download the dataset by making a request [here](http://www.csl.uni-bremen.de/CorpusData/download.php?crps=fNIRS).
 - *Shin et al. 2018* (n-back and word generation tasks): you can download the dataset [here](http://doc.ml.tu-berlin.de/simultaneous_EEG_NIRS/NIRS/NIRS_01-26_MATLAB.zip).
-- *Shin et al. 2016* (mental arithmetic task): you can download the dataset by filling the form [here](http://doc.ml.tu-berlin.de/hBCI). Then click on *NIRS_01-29* to download the fNIRS data.
+- *Shin et al. 2016* (mental arithmetic task): you can download the dataset by filling out the form [here](http://doc.ml.tu-berlin.de/hBCI). Then click on *NIRS_01-29* to download the fNIRS data.
 - *Bak et al. 2019* (motor execution task): you can download the dataset [here](https://figshare.com/ndownloader/files/18069143).
 
 
@@ -170,3 +170,4 @@ If you are using *BenchNIRS*, please cite [this article](https://doi.org/10.3389
 > 	publisher={Multidisciplinary Digital Publishing Institute}
 > }
 > ```
+
