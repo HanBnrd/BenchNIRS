@@ -19,7 +19,6 @@
 [![License](https://img.shields.io/badge/license-GNU%20GPLv3%2b-lightgrey)](https://gitlab.com/HanBnrd/benchnirs/-/blob/main/LICENSE)
 [![Pipeline](https://gitlab.com/HanBnrd/benchnirs/badges/main/pipeline.svg)](https://gitlab.com/HanBnrd/benchnirs)
 [![PyPI version](https://img.shields.io/pypi/v/benchnirs)](https://pypi.org/project/benchnirs/)
-[![Downloads](https://static.pepy.tech/badge/benchnirs)](https://pepy.tech/project/benchnirs)
 
 
 ![Example of figure](https://gitlab.com/HanBnrd/benchnirs/-/raw/v1.0/example.png)
