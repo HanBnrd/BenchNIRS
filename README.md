@@ -80,7 +80,7 @@ import benchnirs as bn
 
 epochs = bn.load_dataset('bak_2019_me', path)
 data = bn.process_epochs(epochs['right', 'left', 'foot'])
-results = bn.deep_learn(*data, my_model)
+results = bn.deep_learn(my_model, *data)
 
 print(results)
 ```
