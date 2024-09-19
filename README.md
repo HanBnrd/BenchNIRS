@@ -27,7 +27,7 @@
 **Features**
 - loading of open access datasets
 - signal processing and feature extraction on fNIRS data
-- training, fine-tuning and evaluation of machine learning models (including deep learning)
+- training, hyperparameter tuning and evaluation of machine learning models (including deep learning)
 - production of training graphs, metrics and other useful figures for evaluation
 - benchmarking and comparison of machine learning models
 - supervised, self-supervised and transfer learning
